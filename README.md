@@ -1,2 +1,2 @@
 # LittleLemon
-This is my simple html projec
+This is my simple html project
